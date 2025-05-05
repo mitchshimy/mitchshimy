@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**mitchshimy/mitchshimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a practical approach to learning and problem-solving. I specialize in both front-end and back-end development, with hands-on experience using:
 
-Here are some ideas to get you started:
+- 🧠 JavaScript, HTML, CSS  
+- ⚙️ Node.js, SQL, React 
+- 💡 Tools like Git, VS Code, and CLI utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy:
+- Debugging and experimenting with code
+- Exploring how systems work under the hood
+- Building efficient, scalable, and maintainable solutions
+
+🚀 I'm constantly learning new technologies and refining my skills. I love writing clean, reusable code and contributing to projects that make a difference.
+
